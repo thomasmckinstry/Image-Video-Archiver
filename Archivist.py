@@ -125,5 +125,5 @@ def getFileType(str):
                 extensionStr = i.url[j : j+6]
                 return extensionStr
 
-bot.run("MTA5NDY5ODQ0NzkwMDI1NDI0MA.GwDbx8.pdoJ4yDR9eFgk3oGcD2EuD91JSsdQQQus1V3S8")
+bot.run("filler")
 
